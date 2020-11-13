@@ -4,6 +4,9 @@
 https://kodazm.ru/articles/go/bittorrent/#.X6qkUHXnhpg
 
 цікаві ресурси
+https://golangs.org/
+https://proglib.io/p/rest-api-go/
+https://dou.ua/lenta/articles/grpc-microservice-go/
 https://kodazm.ru/articles/go/bittorrent/#.X6qkUHXnhpg
 https://kodazm.ru/articles/go/markov-twitter-botnet/#.X6qkmHXnhpg
 
